@@ -1,0 +1,6 @@
+# from unitedtriangle to vinneenguyen, 1 coin = 1 day of work
+# coins: number of coins exchanged
+# cumsum: cumulative sum of coins
+
+item,datetime,coins,description,cumsum
+1,2023-07-03 17:46:24,1,1 day of development,1
